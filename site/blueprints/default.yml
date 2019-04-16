@@ -1,0 +1,19 @@
+title: Page
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea
+
+  time:
+    label: Time
+    type: time
+    notation:
+
+   published:
+    label: Published on
+    type: date

@@ -1,0 +1,13 @@
+Title: Test Event
+
+----
+
+Time: 21:00
+
+----
+
+Text: In this tutorial I will show you how to implement a simple and practical event calendar for KirbyCMS. Most of the heavy lifting will be done by the FullCalendar JavaScript library and some PHP peppered into the mix. Let's begin!
+
+----
+
+Date: 2019-04-03

@@ -1,0 +1,26 @@
+title: Event
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 1/2
+
+  time:
+    label: Time
+    type: time
+    notation: 24
+    width: 1/2
+
+  date:
+    label: Date
+    type: date
+    width: 1/2
+
+  text:
+    label: Text
+    type:  textarea
+
+   published:
+    label: Published on
+    type: date
