@@ -1,4 +1,6 @@
 title: Event
+pages: false
+files: true
 
 fields:
   title:
@@ -6,21 +8,19 @@ fields:
     type:  text
     width: 1/2
 
-  time:
-    label: Time
-    type: time
-    notation: 24
+  date:
+    label: Event date
+    type: date
+    format: MM/DD/YYYY
     width: 1/2
 
-  date:
-    label: Date
-    type: date
+  time:
+    label: Event time
+    type: time
+    format: 12
+    interval: 30
     width: 1/2
 
   text:
     label: Text
     type:  textarea
-
-   published:
-    label: Published on
-    type: date

@@ -11,3 +11,11 @@ Text: Market research
 ----
 
 Time: 21:00
+
+----
+
+Event-date: 2019-04-30
+
+----
+
+Start-time: 05:30 PM

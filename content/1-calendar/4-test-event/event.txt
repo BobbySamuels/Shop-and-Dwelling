@@ -2,7 +2,7 @@ Title: Test Event
 
 ----
 
-Time: 21:00
+Time: 11:30 PM
 
 ----
 
@@ -10,4 +10,12 @@ Text: In this tutorial I will show you how to implement a simple and practical e
 
 ----
 
-Date: 2019-04-03
+Date: 2019-05-10
+
+----
+
+Event-date: 2019-04-25
+
+----
+
+Start-time: 11:00 AM

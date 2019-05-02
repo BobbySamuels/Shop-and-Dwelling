@@ -21,6 +21,7 @@ $(function() {
                 }
             });
         },
+        timeFormat: 'H(:mm)a',
         dayClick: function(date, jsEvent, view) {
             var calEventDate = moment(date).format('DD-MM-YYYY');
 
