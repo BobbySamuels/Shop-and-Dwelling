@@ -10,16 +10,11 @@ fields:
 
   date:
     label: Event date
-    type: date
+    type: datetime
     format: MM/DD/YYYY
     width: 1/2
-
-  time:
-    label: Event time
-    type: time
-    format: 12
-    interval: 30
-    width: 1/2
+    time:
+      format: 12
 
   text:
     label: Text

@@ -27,7 +27,7 @@ echo css('assets/css/fullcalendar.min.css');
     <div class="grid">
 
       <div class="branding column">
-        <a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>
+        <?= $site->title()->html() ?>
       </div>
 
       <?php snippet('menu') ?>

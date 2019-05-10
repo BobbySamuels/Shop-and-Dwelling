@@ -2,12 +2,8 @@ Title: Book Launch
 
 ----
 
-Date: 2019-05-12
+Text:
 
 ----
 
-Time: 06:00 PM
-
-----
-
-Text: 
+Date: 2019-05-18 04:00 PM

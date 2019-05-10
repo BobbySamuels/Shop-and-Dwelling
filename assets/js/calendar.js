@@ -1,5 +1,6 @@
 $(function() {
     $('#calendar').fullCalendar({
+        timeZone: 'Australia',
         events: function(start, end, timezone, callback) {
             $.ajax({
                 url: 'calendar/xml',
@@ -21,7 +22,7 @@ $(function() {
                 }
             });
         },
-        timeFormat: 'H(:mm)a',
+        timeFormat: 'h(:mm)a',
         dayClick: function(date, jsEvent, view) {
             var calEventDate = moment(date).format('DD-MM-YYYY');
 
